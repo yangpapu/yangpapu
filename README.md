@@ -10,4 +10,4 @@ Te invito a revisar mis diferentes proyectos, y a contactarme si necesitas ayuda
 - 🍜 Actualmente estoy trabajando en SRINGMEALS.
 - 💻 Actualmente estoy aprendiendo desarrollo web.
 - 🎀 Pronombres: ella/she/her.
-- 🎬 Me gusta: Resident Evil, NCT y WayV, el cine, las hamburguesas y Kim Jong-Un.
+- 🎬 Me gusta: Resident Evil, NCT y WayV, el cine, las hamburguesas y los perritos.
