@@ -1,16 +1,13 @@
-### Hi there 👋
+# 🌊✮ ⋆ 🦈｡ * ⋆｡  HI THERE!!
 
-<!--
-**yangpapu/yangpapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HOLA!! Soy Zoe, mucho gusto :)
+Soy estudiante de programación y robótica en el Centro Educativo Santo Domingo.
+Tengo 17 años y actualmente vivo en Argentina.
+Me gusta tocar el bajo electrico, hacer modelos de naciones unidas y, en especial, programar.
+Te invito a revisar mis diferentes proyectos, y a contactarme si necesitas ayuda en algo.
+¡Muchas Gracias!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🍜 Actualmente estoy trabajando en SRINGMEALS.
+- 💻 Actualmente estoy aprendiendo desarrollo web.
+- 🎀 Pronombres: ella/she/her.
+- 🎬 Me gusta: Resident Evil, NCT y WayV, el cine, las hamburguesas y Kim Jong-Un.
